@@ -1,0 +1,18 @@
+{
+  "name": "Antharangam – One-to-One Audio & Video Calling",
+  "short_name": "Antharangam",
+  "description": "Discover Antharangam (அந்தரங்கம்), a modern mobile platform designed for safe, engaging one-to-one audio and live video conversations with verified Hosts.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fcf8ff",
+  "theme_color": "#630ed4",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/logo.jpeg",
+      "sizes": "192x192 512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
